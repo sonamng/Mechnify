@@ -1,0 +1,99 @@
+
+
+.header{
+    background-color: rgb(207, 203, 203);
+    color: rgb(236, 223, 223);   
+}
+
+.mechnify{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 10%;   
+}
+
+ #menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;  
+} 
+
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;   
+}
+
+#menu li a:hover{
+    color: black;
+    background-color: rgb(202, 181, 181);
+    text-decoration: none;
+}
+
+
+.home{
+    margin-right: 15px;
+    margin-top: -2px;
+}
+.about{
+    margin-left: 20px;
+}
+
+.gallery{
+    margin-left: 20px;
+}
+
+.contect{
+    margin-left: 20px;
+}
+
+.payment{
+    margin-left: 20px;
+} 
+
+.container-fluid{
+    background-color: gainsboro;
+    height: 59rem;
+}
+
+.payment-images{
+    width: 29rem;
+    height: 55rem;
+    margin-left: 37%;
+    margin-top: 12px;
+    border-radius: 4%;
+}
+
+
+
+.page-footer{
+    background-color: #000;
+    margin-top:-2px;
+    color: white;
+}
+
+.main-photos{
+    width: 8rem;
+    height: 3rem;
+}
+
+.footer-one{
+    background-color: rgb(53, 51, 51);
+    color: white;
+    height: 4rem;
+}
+.insta{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 25%;
+    margin-left: 38%;
+    margin-top: 3px;
+}
+
+.small{
+    margin-left: 20%;
+}
+

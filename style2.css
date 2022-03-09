@@ -1,0 +1,125 @@
+
+.header{
+    background-color: rgb(207, 203, 203);
+    color: rgb(236, 223, 223);   
+}
+
+.mechnify{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 10%;   
+}
+
+ #menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;  
+} 
+
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;   
+}
+
+#menu li a:hover{
+    color: black;
+    background-color: rgb(202, 181, 181);
+    text-decoration: none;
+}
+
+
+.home{
+    margin-right: 15px;
+    margin-top: -2px;
+}
+.about{
+    margin-left: 20px;
+}
+
+.gallery{
+    margin-left: 20px;
+}
+
+.contect{
+    margin-left: 20px;
+}
+
+.payment{
+    margin-left: 20px;
+} 
+
+.Image-car{
+    margin-top: 50px;
+    width: 50%;
+    height: 100%;
+    margin-left: 70px;
+}
+
+.ABOUT{
+    margin-top: 12px;
+}
+
+@media(max-width:750px){
+    .ABOUT{
+        margin-top: 75px;
+    }
+    
+
+}
+
+.ONE{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.TWO{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.THREE{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.FOUR{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+
+
+.page-footer{
+    background-color: #000;
+    margin-top:100px;
+    color: white;
+}
+
+.main-photos{
+    width: 8rem;
+    height: 3rem;
+}
+
+.footer-one{
+    background-color: rgb(53, 51, 51);
+    color: white;
+    height: 4rem;
+}
+.insta{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 25%;
+    margin-left: 38%;
+    margin-top: 3px;
+}
+
+.small{
+    margin-left: 20%;
+}
+

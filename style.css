@@ -1,0 +1,398 @@
+
+
+.alll-div{
+    background-color: rgb(209, 218, 221);
+    height: 48rem;
+}
+
+
+
+@media(max-width:750px){
+    html{
+        font-size: 55%;
+    }
+    .alll-div{
+        background-color: rgb(209, 218, 221);
+        height: 171rem;
+    }
+    .mechnify-one{
+        width: 10rem;
+        height: 3rem;
+        margin-left: 201px;  
+    }
+
+    .page-footer{
+        background-color: #000;
+        margin-top: 561px;
+        color: white;
+    }
+
+    
+}
+
+
+
+.section-head{
+    text-align: center;
+    font-weight: bold;   
+}
+
+.section{
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+section h2 .section-head{
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;  
+}
+
+section h2 .section-head:after{
+    background-color: red;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin:20px auto ;
+}
+
+.header{
+    background-color: rgb(207, 203, 203);
+    color: rgb(236, 223, 223);   
+}
+
+.mechnify{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 10%;   
+}
+
+ #menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;  
+} 
+
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;   
+}
+
+#menu li a:hover{
+    color: black;
+    background-color: rgb(202, 181, 181);
+    text-decoration: none;
+}
+
+
+.home{
+    margin-right: 15px;
+    margin-top: -2px;
+}
+.about{
+    margin-left: 20px;
+}
+
+
+.contect{
+    margin-left: 20px;
+}
+
+.payment{
+    margin-left: 20px;
+} 
+
+
+#banner{
+    background: url('man_pic.avif') no-repeat 0 0;
+    background-size: cover;
+    height: 40rem;
+}
+
+.banner-title h1{
+    margin-bottom: 12%;
+    color:  #ffffff;
+    font-size: 4rem;
+    display: inline-block;
+    font-weight: bold;
+}
+
+
+.banner-title p.lead{
+
+    color: rgb(53, 160, 248);
+    font-size: 4rem;
+    font-weight: bold; 
+}
+
+
+
+.icon{
+    height: 40%;
+    width: 40%;
+}
+
+
+
+
+
+.one{
+    background-color: gray;
+    border: 12px solid aqua;  
+    border-radius: 200px;
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    margin-left: 32%;
+    margin-bottom: 12%;
+}
+
+
+.two{
+    background-color: gray;
+    border: 12px solid aqua;  
+    border-radius: 200px;
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    margin-left: 32%;
+    margin-bottom: 12%;
+}
+
+
+.three{
+    background-color: gray;
+    border: 12px solid aqua;  
+    border-radius: 200px;
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    margin-left: 32%;
+    margin-bottom: 12%;
+}
+
+
+.four{
+    background-color: gray;
+    border: 12px solid aqua;  
+    border-radius: 200px;
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    margin-left: 32%;
+    margin-bottom: 12%;
+}
+
+.five{
+    background-color: gray;
+    border: 12px solid aqua;  
+    border-radius: 200px;
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    margin-left: 35%;
+    margin-bottom: 12%;
+}
+
+
+.six{
+    background-color: gray;
+    border: 12px solid aqua;  
+    border-radius: 200px;
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    margin-left: 32%;
+    margin-bottom: 12%;
+}
+
+.service-box{
+    text-align: center;
+
+}
+
+
+
+.service-box .icon{
+    color: black;
+    font-size: 70px;
+    margin-top: 15%;
+    margin-bottom: 18px;
+
+}
+
+.div:hover{
+    background-color: rgb(189, 180, 180);
+}
+
+.div1:hover{
+    background-color: rgb(189, 180, 180);
+
+}
+
+.div2:hover{
+    background-color: rgb(189, 180, 180);
+
+}
+
+.div-one:hover{
+    background-color: rgb(189, 180, 180);
+
+}
+
+.div-two:hover{
+    background-color: rgb(189, 180, 180);
+
+}
+
+.div-three:hover{
+    background-color: rgb(189, 180, 180);
+    background-size: cover;
+    
+
+}
+
+
+
+
+.SERVICE-BOX{
+    text-align: center;
+
+}
+
+
+.SERVICE-BOX .icon{
+    color: black;
+    font-size: 70px;
+    margin-top: 15%;
+    margin-bottom: 18px;
+}
+
+.section-head{
+    font-size: 3rem;
+    margin-bottom: 30px;
+}
+
+
+.paragraph{
+    margin-left: 200px;
+    font-size: 25px;
+}
+
+
+.paragraph{
+    margin-right: 40px;
+}
+
+.Brack{
+    width: 7rem;
+    height: 7rem;
+    margin-top: -65%;
+    margin-left: 55px;
+
+}
+
+.Brack-one{
+
+    width: 7rem;
+    height: 7rem;
+    margin-top: -58%;
+    margin-left: 66px;
+}
+
+.Brack-two{
+    width: 7rem;
+    height: 7rem;
+    margin-top: -70%;
+    margin-left: 40px;
+    margin-left: 55px;
+    
+} 
+
+
+#testimonials{
+    background-size: cover;
+    padding: 50px;
+    position: relative;
+    margin: 13px;
+}
+
+.mechnify-one{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 201px;  
+}
+
+.Address, .Service, .Popular{
+    color: white;
+    margin-right: 40px;
+}
+
+
+
+.navbar{
+     background-color: #000;
+     color: wheat;
+ }
+
+
+
+.btn{
+    background-color: aqua;
+    color: black;
+    margin-left: 50%;
+}
+
+
+
+ .paragraph-1{
+     color: white;
+     font-size: 4rem;
+     font-weight: bold; 
+     margin-left: 50%;  
+     margin-top: 10%;  
+ }
+
+ .paragraph-2{
+    color: aqua;
+    font-size: 4rem;
+    font-weight: bold; 
+    margin-left: 50%;  
+    margin-top: -1%;  
+}
+
+
+.page-footer{
+    background-color: #000;
+    margin-top:408px;
+    color: white;
+}
+
+.main-photos{
+    width: 8rem;
+    height: 3rem;
+}
+
+.footer-one{
+    background-color: rgb(53, 51, 51);
+    color: white;
+    height: 4rem;
+}
+.insta{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 25%;
+    margin-left: 38%;
+    margin-top: 15px;
+}
+
+.small{
+    margin-left: 20%;
+}
+
